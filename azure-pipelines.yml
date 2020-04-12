@@ -10,7 +10,7 @@ resources:
 
 variables:
   tag: '$(Build.BuildId)'
-  imageName: jaboo9/pipeline-flaskdockerlab
+  imageName: 'jaboo9/pipeline-flaskdockerlab'
 
 
 stages:
